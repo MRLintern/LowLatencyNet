@@ -5,6 +5,8 @@
 
 ### Features
 
+### Application Area
+
 ### Requirements
 
 ### Running and Using the Software
